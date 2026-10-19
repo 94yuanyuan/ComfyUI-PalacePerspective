@@ -15,8 +15,8 @@ Drag `examples/workflow.png` into ComfyUI to load the graph.
 
 ## Features / 功能
 
-- **Verbatim background** — your scene text is copied as-is, never rewritten.  
-  **背景原文** — 場景文字原樣保留，不做改寫。
+- **Prompt** — background as-is, then a perspective line from the vanishing point(s), then an occupancy line if subject is on.  
+  **組句** — 背景原文 + 透視句（由消失點／地平線寫出）+ 主體開啟時的佔位句。
 
 - **Subject toggle** — on: place a sphere / box / cylinder on the grid and append occupancy; off: perspective ground only.  
   **主體開關** — 開：在宮格上放球體／方體／圓柱並寫佔位；關：只畫透視地面。
