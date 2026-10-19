@@ -1,0 +1,12 @@
+[project]
+name = "comfyui-palace-perspective"
+description = "9x9 palace plus 1-point and 2-point vanishing rays: occupancy layout image and verbatim background concat."
+version = "0.1.0"
+license = { text = "MIT" }
+requires-python = ">=3.10"
+dependencies = ["numpy", "pillow"]
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "Palace Perspective"
+includes = []
